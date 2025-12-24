@@ -1,0 +1,1 @@
+// Moved to /frontend/types.ts
