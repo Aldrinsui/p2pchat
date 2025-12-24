@@ -1,0 +1,8 @@
+{
+  "name": "SecureChat Messenger",
+  "description": "A zero-knowledge, end-to-end encrypted messaging platform using ECDSA P-256 for message signing and local-only storage. Features include private chats, group chats, polls, events, and QR-based contact verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,1 @@
+// Moved to /frontend/components/Layout.tsx
